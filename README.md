@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AarishKhanna
-- 👀 I’m interested in Blockchain Development and Data Mining Techniques
-- 🌱 I’m currently learning Data Mining and Analysis Techniques
+- 👀 I’m interested in iOS development 
+- 🌱 I’m currently learning the latest iOS development technologies like SwiftUI, Programmatic UI
 - 📫 Reach me through my gmail id: aarishkhanna@gmail.com
 
 <!---
